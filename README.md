@@ -5,7 +5,7 @@
 
 - 🎓 Third-year Computer Science student (MIAGE track), looking for a 12-week internship starting April 19, 2027 in full-stack / Java development or functional analysis. Open to a work-study Master's in 2027
 
-- 🌱 I'm currently learning functional analysis (BPMN, user stories, UX journeys) alongside Kotlin
+- 🌱 I'm currently learning functional analysis (BPMN, user stories, UX journeys) alongside fullstack development
 
 - 📫 How to reach me: **LinkedIn** (below)
 
